@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
@@ -8,7 +9,7 @@
       fx:controller="controller.NoteController"
       spacing="8" alignment="TOP_LEFT">
 
-<padding>
+    <padding>
         <Insets top="10" right="10" bottom="10" left="10"/>
     </padding>
 
